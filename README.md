@@ -24,6 +24,6 @@ Additional Dependencies: Includes scikit-learn, TensorFlow (versions 2.4.1), Ten
 # Results and Impact
 The Epilepsy-Seizure-Determination-Combining-Brain-Heart-Signal-Analysis-And-Training utilizes various deep learning models for effective determination
 
-# Articles published
+# For references
 1. Jialin Wang; Shen Liang;Jiawei Zhang; Yingpei Wu; Lanying Zhang;Rui Gao; Dake He; C.-J. Richard Shi. “EEG Signal Epilepsy Detection With a Weighted Neighbor Graph Rep-resentation and Two-Stream Graph-Based Framework.” Volume:31, IEEE, 2023. 
 2. Akira Furui; Ryota Onishi; Akihito Takeuchi; Tomoyuki Akiyama; Toshio Tsuji . “Non-Gaussianity Detection of EEG Signals Based on a Multivariate Scale Mixture Model for Diagnosis of Epileptic Seizures.” Volume:68, IEEE, 2021
